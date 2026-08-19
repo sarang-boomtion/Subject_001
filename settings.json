@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Loungeful.aternos.me",
+    "ip": "dottyback.aternos.host",
     "port": 44235,
     "version": "",
     "try-creative": false
