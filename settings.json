@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Loungeful.aternos.me:44235",
+    "ip": "Loungeful.aternos.me",
     "port": 44235,
     "version": "",
     "try-creative": false
