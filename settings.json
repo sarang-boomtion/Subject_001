@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "eelpout.aternos.host",
+    "ip": "grizzlybear.aternos.host",
     "port": 44235,
     "version": "",
     "try-creative": false
