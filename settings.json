@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "whiting.aternos.host",
+    "ip": "crappie.aternos.host",
     "port": 44235,
     "version": "",
     "try-creative": false
