@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "crappie.aternos.host",
+    "ip": "minnow.aternos.host",
     "port": 44235,
     "version": "",
     "try-creative": false
